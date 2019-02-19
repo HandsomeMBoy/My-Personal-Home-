@@ -85,7 +85,18 @@
                 </div>
 
                 <div class="links">
-                    123333
+                    欢迎来到Max的个人学习主页
+                    本地配置laravel的环境重点：
+                    安装composer编辑器然后命令下载 laravel代码：sudo composer create-project --prefer-dist laravel/laravel（拉取地址） ../laravelStudy/（安装的文件目录）
+                    /etc/apache2/sites-enabled/000-default.conf  配置访问入口
+                    /etc/apache2/ports.conf 配置请求端口
+
+                    连接git远程仓库
+                    git init
+                    git add .
+                    git commit -m 'a'
+                    git remote add origin https://github.com/MaoJian555/MyPersonal.git
+                    git push -u origin master
                 </div>
             </div>
         </div>
