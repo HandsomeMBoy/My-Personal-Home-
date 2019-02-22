@@ -97,8 +97,7 @@
                     git commit -m 'a'<br>
                     git remote add origin https://github.com/MaoJian555/MyPersonal.git<br>
                     git push -u origin master<br>
-                    如果要每次提交不需要输入账号和密码则
-                    绑定远程的时候连接ssh 地址
+                    如果要每次提交不需要输入账号和密码则 绑定远程的时候连接ssh 地址<br>
                 </div>
             </div>
         </div>
